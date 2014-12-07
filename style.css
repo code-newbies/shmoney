@@ -1,0 +1,17 @@
+footer {
+	background: yellow;
+	padding: 15px 0px;
+}
+
+li {
+	display: inline;
+	float: right;
+	padding-left: 15px;
+}
+
+.wrapper {
+	margin: 0px auto;
+	max-width: 700px;
+
+
+}
